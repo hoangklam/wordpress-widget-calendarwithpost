@@ -1,9 +1,11 @@
 <?php
 /*
 Plugin Name: Calendar Widget with Posts
+Plugin URI: https://wordpress.org/plugins/calendar-widget-with-posts/
 Description: This calendar widget will show list posts of the day when mouse hover.
 Version: 1.0
 Author: Lam Hoang
+Author URI: https://nknhatrang.com
 */
 
 
